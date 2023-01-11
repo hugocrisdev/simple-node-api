@@ -1,2 +1,2 @@
-# simple-node-api
+# Simple NodeJS API
 A simple node api 
